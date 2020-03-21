@@ -35,6 +35,47 @@
 
 .folder{
     width: 968px;
-    height: 1000px;
+    height: 980px;
     background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-1{
+    font-size: 55px;
+    color: #21A51E;
+}
+
+.text-2{
+    font-size: 43px;
+    color:  #21A51E;
+}
+
+.text-footer-1{
+    font-size: 26px;
+    color: #99FA99;
+    margin-bottom: 8px;
+}
+
+.text-footer-2{
+    font-size: 12px;
+    color:  #B6D8CF;
+}
+
+.icons-footer a{
+    font-size: 26px;
+    color:  #99FA99;
+    text-decoration: none;
+
+}
+
+.footer-page{
+    width: 968px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
 }
