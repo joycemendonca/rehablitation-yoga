@@ -1,0 +1,40 @@
+*{
+    background-color: #077054;
+}
+
+.title{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+    height: 160px;
+    width: auto
+}
+
+.title-1{
+    font-family: ;
+    font-size: 50px;
+    color: #99FA99;
+    margin-bottom: 8px;
+}
+
+.title-2{
+    font-family: ;
+    font-size: 26px;
+    color: #B6D8CF;
+}
+
+.links-home{
+    text-align: center;
+}
+.links-home a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #B6D8CF;
+    padding: 30px;
+}
+
+.folder{
+    width: 968px;
+    height: 1000px;
+    background-color: white;
+}
