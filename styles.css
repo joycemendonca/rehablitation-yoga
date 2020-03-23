@@ -143,3 +143,19 @@ body{
     margin-bottom: 15px;
 
 }
+
+.blog-text-date{
+    color: #315f52;
+    font-family: 'latoregular';
+    font-size: 14px;
+}
+
+.post-blog{
+    display: flex;
+    margin-bottom: 60px;
+
+}
+
+.post-blog-2{
+    margin-left: 20px;
+}
