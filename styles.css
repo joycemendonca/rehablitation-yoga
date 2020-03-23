@@ -1,56 +1,87 @@
-*{
+body{
     background-color: #077054;
 }
-
 .title{
-    margin-top: 60px;
-    margin-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
-    height: 160px;
-    width: auto
+    height: 130px;
+    width: 960px;
+    padding: 30px 0px;
 }
 
 .title-1{
-    font-family: ;
+    font-family: 'Lato', sans-serif;
     font-size: 50px;
     color: #99FA99;
     margin-bottom: 8px;
 }
 
 .title-2{
-    font-family: ;
+    font-family: 'Nixie One', cursive;
     font-size: 26px;
     color: #B6D8CF;
 }
 
 .links-home{
     text-align: center;
+    margin-bottom: 6px;
+
+    
 }
 .links-home a{
     text-decoration: none;
     font-size: 18px;
     color: #B6D8CF;
-    padding: 30px;
+    padding: 40px;
+    font-family: 'Lato', sans-serif;
+
 }
 
 .folder{
-    width: 968px;
-    height: 980px;
+    width: 960px;
+    height: 827px;
     background-color: white;
     margin-left: auto;
     margin-right: auto;
 }
 
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
 .text-1{
-    font-size: 55px;
+    font-family: 'Nixie One', cursive;
+    font-size: 100px;
     color: #21A51E;
+   
+    
+    
+}
+
+.element-border{
+    width: 100px;
+    border: 4px solid palevioletred;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 45px;
+    margin-top: 45px;
 }
 
 .text-2{
-    font-size: 43px;
+    font-family: 'Nixie One', cursive;
+    font-size: 100px;
     color:  #21A51E;
+    
 }
 
+.home img{
+    margin: 74px 38px 46px;
+}
 .text-footer-1{
     font-size: 26px;
     color: #99FA99;
@@ -70,12 +101,13 @@
 }
 
 .footer-page{
-    width: 968px;
+    width: 960px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
+    margin-top: 10px;
 
 }
