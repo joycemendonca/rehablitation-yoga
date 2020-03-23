@@ -159,3 +159,38 @@ body{
 .post-blog-2{
     margin-left: 20px;
 }
+
+.area-form{
+    margin-left: 200px;
+    margin-right: auto;
+    line-height: 45px;
+}
+
+.area-form-1{
+    width: 460px;
+    height: 48px;
+    background: #D1D3D4;
+    text-decoration: none;
+    border: 1px solid  #b6d8cf;
+}
+
+.area-form-2{
+    width: 460px;
+    height: 252px;
+    background: #D1D3D4;
+    text-decoration: none;
+    border: 1px solid  #b6d8cf;
+}
+
+.title-form{
+    font-family: 'Nixie One', cursive;
+    font-size: 23px;
+    color: #315F52;
+   
+}
+
+.form-1-question{
+    color: #315f52;
+    font-family: 'latoregular';
+    font-size: 14px;
+}
