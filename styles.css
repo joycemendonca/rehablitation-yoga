@@ -164,6 +164,7 @@ body{
     margin-left: 200px;
     margin-right: auto;
     line-height: 45px;
+    position: relative;
 }
 
 .area-form-1{
@@ -193,4 +194,16 @@ body{
     color: #315f52;
     font-family: 'latoregular';
     font-size: 14px;
+}
+
+.form-button{
+    position: absolute;
+    right: 1px;
+    color: #99fa99;
+    background-color: #077054;
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+    width: 50px;
+    margin-top: 10px;
 }
