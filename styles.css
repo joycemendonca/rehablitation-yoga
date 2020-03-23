@@ -111,3 +111,35 @@ body{
     margin-top: 10px;
 
 }
+
+.home-about{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    padding: 45px 40px 46px;
+    line-height: 30px;
+
+}
+
+.about-title-1{
+    font-family: 'Nixie One';
+    font-size: 35px;
+    color: #21a51e;
+    margin-bottom: 44px;
+}
+
+.about-title-2{
+    font-family: 'Nixie One';
+    font-size: 23px;
+    color: #315f52;
+    margin-bottom: 6px;
+}
+
+.about-text{
+    color: #315f52;
+    font-family: 'latoregular';
+    font-size: 14px;
+    margin-bottom: 15px;
+
+}
