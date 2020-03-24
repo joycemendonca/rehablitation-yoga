@@ -46,7 +46,7 @@ body{
 }
 
 .links-home .link-active {
-    color: #99FA99;
+    color: #99FA99 !important;
 }
 
 .folder{
