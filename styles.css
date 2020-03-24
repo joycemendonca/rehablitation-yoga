@@ -221,3 +221,24 @@ body{
     margin-top: 10px;
 }
 
+.sub-menu{
+    position: relative;
+
+}
+
+.sub-menu:hover .sub-menu-2{
+    display: inline;
+}
+
+.links-home .sub-menu-2{
+    position: absolute;
+    display: none;
+    background-color: #077054;
+    top: 100%;
+    left: -2px;  
+    text-decoration: none;
+    font-size: 18px;
+    color: #B6D8CF;
+    padding: 15px 20px;
+    font-family: 'Lato', sans-serif;
+}
